@@ -7,7 +7,7 @@ This repository provides a lightweight and modular implementation of a Latent Di
 | **Dataset**                                     | **Generation Process of Latents**           | **Generated Data**                          |
 |---------------------------------------------|-----------------------------------------|-----------------------------------------|
 | Swiss-roll  | <img src="assets/swiss_roll.gif" width="300"/>   | <img src="assets/swiss_roll_image.png" width="300"/>  |
-| CIFAR-10  | <img src="assets/cifar10.gif" width="300"/>   | <img src="assets/cifar10_image.png" width="300"/>  |
+| [CIFAR-10](https://huggingface.co/JuyeopDang/simple-latent-diffusion-models)  | <img src="assets/cifar10.gif" width="300"/>   | <img src="assets/cifar10_image.png" width="300"/>  |
 | CelebA  | <img src="assets/celeba.gif" width="300"/>   | <img src="assets/celeba_image.png" width="300"/>  |
 
 ## **Text-to-image synthesis using CLIP-guided latent diffusion**
