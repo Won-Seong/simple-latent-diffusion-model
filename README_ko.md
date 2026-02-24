@@ -5,7 +5,7 @@
 | 데이터 세트                                | 잠재 변수의 생성 프로세스               | 생성된 데이터                          |
 |---------------------------------------------|-----------------------------------------|-----------------------------------------|
 | Swiss-roll  | <img src="assets/swiss_roll.gif" width="300"/>   | <img src="assets/swiss_roll_image.png" width="300"/>  |
-| CIFAR-10  | <img src="assets/cifar10.gif" width="300"/>   | <img src="assets/cifar10_image.png" width="300"/>  |
+| [CIFAR-10](https://huggingface.co/JuyeopDang/simple-latent-diffusion-models)  | <img src="assets/cifar10.gif" width="300"/>   | <img src="assets/cifar10_image.png" width="300"/>  |
 | CelebA  | <img src="assets/celeba.gif" width="300"/>   | <img src="assets/celeba_image.png" width="300"/>  |
 
 ## CLIP을 이용한 text-to-image 생성
