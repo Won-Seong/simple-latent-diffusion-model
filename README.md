@@ -2,7 +2,7 @@
 
 🌐 README in Korean: [KR 한국어 버전](README_ko.md)
 
-This repository provides a lightweight and modular implementation of a Latent Diffusion Model (LDM), which performs efficient image generation by operating in a lower-dimensional latent space instead of pixel space.
+This repository provides a lightweight and modular implementation of a Latent Diffusion Model (LDM), which performs efficient image generation by operating in a lower-dimensional latent space instead of pixel space. Model weights and examples are hosted on Hugging Face; links can be found in the Dataset column.
 
 | **Dataset**                                     | **Generation Process of Latents**           | **Generated Data**                          |
 |---------------------------------------------|-----------------------------------------|-----------------------------------------|
