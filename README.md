@@ -2,12 +2,12 @@
 
 🌐 README in Korean: [KR 한국어 버전](README_ko.md)
 
-This repository provides a lightweight and modular implementation of a Latent Diffusion Model (LDM), which performs efficient image generation by operating in a lower-dimensional latent space instead of pixel space. Model weights and examples are hosted on Hugging Face; links can be found in the Dataset column.
+This repository provides a lightweight and modular implementation of a Latent Diffusion Model (LDM), which performs efficient image generation by operating in a lower-dimensional latent space instead of pixel space. Model weights and examples are hosted on [Hugging Face](https://huggingface.co/JuyeopDang/simple-latent-diffusion-models).
 
 | **Dataset**                                     | **Generation Process of Latents**           | **Generated Data**                          |
 |---------------------------------------------|-----------------------------------------|-----------------------------------------|
 | Swiss-roll  | <img src="assets/swiss_roll.gif" width="300"/>   | <img src="assets/swiss_roll_image.png" width="300"/>  |
-| [CIFAR-10](https://huggingface.co/JuyeopDang/simple-latent-diffusion-models)  | <img src="assets/cifar10.gif" width="300"/>   | <img src="assets/cifar10_image.png" width="300"/>  |
+| CIFAR-10  | <img src="assets/cifar10.gif" width="300"/>   | <img src="assets/cifar10_image.png" width="300"/>  |
 | CelebA  | <img src="assets/celeba.gif" width="300"/>   | <img src="assets/celeba_image.png" width="300"/>  |
 
 ## **Text-to-image synthesis using CLIP-guided latent diffusion**
