@@ -1,11 +1,11 @@
 # Simple Latent Diffusion Model
 
-이 저장소는 간단한 잠재 확산 모형(Latent Diffusion Model)의 구현을 제공합니다. 각 모델의 가중치와 예시는 Hugging Face에 있습니다. 링크는 '데이터 세트' 열의 각 텍스트를 클릭해 주세요.
+이 저장소는 간단한 잠재 확산 모형(Latent Diffusion Model)의 구현을 제공합니다. 각 모델의 가중치와 예시는 [Hugging Face](https://huggingface.co/JuyeopDang/simple-latent-diffusion-models)에 있습니다.
 
 | 데이터 세트                                | 잠재 변수의 생성 프로세스               | 생성된 데이터                          |
 |---------------------------------------------|-----------------------------------------|-----------------------------------------|
 | Swiss-roll  | <img src="assets/swiss_roll.gif" width="300"/>   | <img src="assets/swiss_roll_image.png" width="300"/>  |
-| [CIFAR-10](https://huggingface.co/JuyeopDang/simple-latent-diffusion-models)  | <img src="assets/cifar10.gif" width="300"/>   | <img src="assets/cifar10_image.png" width="300"/>  |
+| CIFAR-10  | <img src="assets/cifar10.gif" width="300"/>   | <img src="assets/cifar10_image.png" width="300"/>  |
 | CelebA  | <img src="assets/celeba.gif" width="300"/>   | <img src="assets/celeba_image.png" width="300"/>  |
 
 ## CLIP을 이용한 text-to-image 생성
